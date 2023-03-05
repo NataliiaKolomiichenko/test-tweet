@@ -1,0 +1,17 @@
+.imgBoxWrapper {
+    padding: 28px 36px 18px;
+}
+
+.logo {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    height: 22px;
+    width: 76px;
+}
+
+.bgImage {
+    width: 308px;
+    height: 168px;
+
+}

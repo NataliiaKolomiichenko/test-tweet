@@ -1,0 +1,51 @@
+[
+    {
+    "id": 1,
+    "user": "John Wick",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2202/2202112.png"
+    },
+    {
+    "id": 2,
+    "user": "Nikki Fun",
+    "tweets": 1576,
+    "followers": 1905,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/9561/9561547.png"
+    },
+    {
+    "id": 3,
+    "user": "Gil Grissom",
+    "tweets": 765,
+    "followers": 355415,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/924/924915.png"
+    },
+    {
+    "id": 4,
+    "user": "Mister Leprechaun",
+    "tweets": 961,
+    "followers": 6841,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/9811/9811008.png"
+    },
+    {
+    "id": 5,
+    "user": "Dean White",
+    "tweets": 1637,
+    "followers": 54351,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/706/706807.png"
+    },
+    {
+    "id": 6,
+    "user": "Jack Ostin",
+    "tweets": 1852,
+    "followers": 68177,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/4333/4333609.png"
+    },
+    {
+    "id": 7,
+    "user": "Sally Loyd",
+    "tweets": 2357,
+    "followers": 5676,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/921/921124.png"
+    }
+]
